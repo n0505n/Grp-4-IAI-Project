@@ -6,8 +6,6 @@ risks using anonymized datasets and demonstrates how AI can assist in healthcare
 🚀 Live Demo  
 Add your deployed app link here
 
-📂 GitHub Repository  
-Add your GitHub repository link here
 
 ✨ Features
 
